@@ -1,0 +1,16 @@
+/* .col-sm-3{
+    background-color: beige;
+    border: 1px solid dimgray;
+}
+.col-sm-9{
+    background-color: rgb(255, 255, 77);
+    border: 1px solid dimgray;
+} */
+.col-sm-2{
+    background-color: rgb(26, 227, 53);
+    border: 1px solid dimgray;
+}
+.col-sm-4{
+    border: 1px solid dimgray;
+    background-color: rgb(24, 201, 232);
+}
